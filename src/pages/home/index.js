@@ -45,11 +45,6 @@ export class Home extends React.Component {
             <img src="./source/logo-light.svg" />
           </div>
           <Menu />
-          {/*<br/>
-          <div style={{padding: '10px'}}>
-            <h4>Counter: {result}</h4>
-            <button className="btn btn-primary" onClick={this.onClick.bind(this)}>primary button</button>
-          </div>*/}
         </div>
         <div className="body">
           <Header />
